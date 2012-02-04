@@ -14,3 +14,9 @@ build.properties
 .gitignore
 
 build.properties
+
+src/.DS_Store
+
+src/tag/.DS_Store
+
+test.cfm
